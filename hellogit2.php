@@ -1,2 +1,2 @@
 <?php
-    echo "Hello Git 2";
+    echo "Hello Git 2!";

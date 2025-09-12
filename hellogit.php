@@ -1,2 +1,2 @@
 <?php
-printf ("Hello Git");
+echo "Hello Git!";
